@@ -1,5 +1,5 @@
 .grid-item{
-  color:white;
+  color:gray;
   background-color:#ff5252; /* 기본 배경 색상 */
 }
 .grid-item:nth-child(2n){
